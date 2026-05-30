@@ -7,4 +7,3 @@ class Carrera
     public $Facultad;
 }
 
-
